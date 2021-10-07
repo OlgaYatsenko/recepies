@@ -9,7 +9,7 @@ Execution of the programm:
 3) an instruction for coffee preparation is displayed;
 
 ##  Technical details and Project Diagram 
-There are  two classes (Esspresso aand Latte) and two classes (factories) for their instatiation (EsspressoFactory and LatteFactory). 
-CoffeeMachine class interacts with a user (see description above) and instatiates the chosen coffee class with the factory class. 
+There are  two classes (Esspresso aand Latte) and two classes (factories) for their instantiation (EsspressoFactory and LatteFactory). 
+CoffeeMachine class interacts with a user (see description above) and instantiates the chosen coffee class with the factory class. 
 
 ![alt text](https://github.com/OlgaYatsenko/recepies/blob/master/project_diagram.png)
